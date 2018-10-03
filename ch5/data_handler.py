@@ -2,7 +2,7 @@
 from __future__ import division
 import os,sys
 import sqlite3
-import MySQLdb as mdb
+import MySQLdb as mdb#pip install mysqlclient==1.3.4
 
 from data_model import *
 

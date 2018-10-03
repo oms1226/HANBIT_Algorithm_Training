@@ -9,7 +9,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
 import pandas as pd
-import pandas.io.data as web
+import pandas_datareader.data as web
 
 from data_model import *
 from data_handler import *
